@@ -9,3 +9,6 @@ Tyspescript Para fazer a integração com o react e o node
 
 Integração com o Sass
 ### yarn add sass
+
+Formato do ano mês e dia - https://date-fns.org/v2.20.1/docs/format
+### yarn add date-fans
