@@ -12,3 +12,9 @@ Integração com o Sass
 
 Formato do ano mês e dia - https://date-fns.org/v2.20.1/docs/format
 ### yarn add date-fans
+
+Configurando API em JSON
+### yarn add json-server -D
+
+Rodar a API em json-server na porta:3333 "http://localhost:3333/episodes"
+### yarn server
